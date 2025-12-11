@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+.blue-background {
+    color: blue;
+}
+.maket {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+p img {
+    border-left: 10px dotted black; 
+    padding: 10px;
+    margin-right:30px ;
+}
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 20px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin: 50px;
+    border-bottom: 5px solid black;
+    font-size: 20px;
+}
